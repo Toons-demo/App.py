@@ -1,5 +1,6 @@
 import streamlit as st
 from datetime import datetime
+st.write("Démarrage de Toons…")
 import uuid
 
 st.set_page_config(page_title="Toons – Commande IA", layout="centered")
